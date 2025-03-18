@@ -5,3 +5,6 @@
 ```
 This is a block
 ```
+- [x] item 1
+- [ ] item 2
+      
